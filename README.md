@@ -1,5 +1,4 @@
-IoT Network Scanner
-Overview
+
 The IoT Network Scanner is a Python-based application designed to detect and assess Internet of Things (IoT) devices on a local network for potential vulnerabilities. It provides a simple graphical user interface (GUI) built with Tkinter, allowing users to scan a specified network range, identify active devices, check for open ports, and evaluate common vulnerabilities. The tool is intended for network administrators and security enthusiasts to monitor endpoint security in environments with IoT devices.
 Note: This tool performs basic network scanning and vulnerability assessment for demonstration purposes. Always ensure you have explicit permission to scan any network, as unauthorized scanning may violate legal and ethical guidelines.
 Features
